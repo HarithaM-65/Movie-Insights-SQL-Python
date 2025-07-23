@@ -1,1 +1,1 @@
-# Movie-Insights-SQL-Python
+# movie-insights-sql-python
